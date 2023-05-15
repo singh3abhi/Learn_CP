@@ -1,0 +1,21 @@
+1)Outline
+2)C++ Basics
+3)Time Complexity
+4)Pre Computation Techniques(Hashing, Prefix Sum)
+5)Recursion
+6)Bit Operations
+7)Modular Arithmetic
+8)Binary Exponentiation, Inverse Modulo
+9)GCD
+10)Sieve of primes
+11)STL(Vectors,Set,Maps(Unordered versions also),Multisets,Stack,Queues)
+12)STL Algorithms
+13)Comparator
+14)Binary Search and  Predicate Function
+15)Introduction to graphs
+16)BFS
+17)DFS
+18)Dijkstra
+19)DSU
+20)MST
+21)Dynamic Programming
